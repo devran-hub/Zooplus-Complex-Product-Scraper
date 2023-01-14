@@ -1,5 +1,5 @@
 # Zooplus-Complex-Product-Scraper
-A webscraper that scrapes product name, price, image link, description, SKU, Animal name, Rating, Category
+A webscraper that scrapes product name, price, image link, description, SKU, Animal name, Rating, Category from https://www.zooplus.co.uk/
 
 ## Working process
 1- Firstly script reaches category then it's sub-categories one by one
