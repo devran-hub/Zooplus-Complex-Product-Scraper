@@ -3,6 +3,8 @@ A webscraper that scrapes product name, price, image link, description, SKU, Ani
 
 you can view the output of the script here: https://docs.google.com/spreadsheets/d/1as0r1LUOCalZYHqfsv5AHZldgVJSJMt5vm-aFDqYPFM/edit?usp=sharing
 
+In this project i used: BeautifulSoup, Requests, CSV libraries
+
 ## Working process
 1- Firstly script reaches category then it's sub-categories one by one
 
